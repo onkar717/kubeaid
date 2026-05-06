@@ -1,3 +1,7 @@
+calcom:
+  postgresql:
+    enabled: false
+
 global:
   netpol:
     enabled: false
