@@ -28,7 +28,6 @@ global:
     resources:
       limits:
         memory: 800Mi
-        cpu: 250m
       requests:
         memory: 500Mi
         cpu: 250m
